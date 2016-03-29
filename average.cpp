@@ -27,6 +27,7 @@ int main()
 
 //output resulting average to screen
    cout << "The average of those numbers is " << averageOfNumbers << endl;
+    cout << "The End." << endl;
 
    return 0; 
 
